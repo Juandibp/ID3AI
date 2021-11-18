@@ -1,0 +1,15 @@
+Solicitante,Riesgo,Historial Crediticio,Deuda,Garantia Colateral,Rango de Ingreso
+1,Alto,Malo,Alta,Ninguna,1
+2,Alto,Desconocido,Alta,Ninguna,2
+3,Moderado,Desconocido,Baja,Ninguna,2
+4,Alto,Desconocido,Alta,Ninguna,1
+5,Bajo,Desconocido,Alta,Ninguna,3
+6,Bajo,Desconocido,Alta,Adecuada,3
+7,Alto,Malo,Alta,Ninguna,1
+8,Moderado,Malo,Alta,Adecuada,3
+9,Bajo,Bueno,Alta,Ninguna,3
+10,Bajo,Bueno,Alta,Adecuada,3
+11,Alto,Bueno,Alta,Ninguna,1
+12,Moderado,Bueno,Alta,Ninguna,2
+13,Bajo,Bueno,Alta,Ninguna,3
+14,Alto,Malo,Alta,Ninguna,2
