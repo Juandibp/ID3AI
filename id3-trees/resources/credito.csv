@@ -1,0 +1,15 @@
+Riesgo,GarantiaColateral,RangoIngreso,Deuda,HistorialCrediticio
+Alto,Ninguna,1,Alta,Malo
+Alto,Ninguna,2,Alta,Desconocido
+Moderado,Ninguna,2,Baja,Desconocido
+Alto,Ninguna,1,Alta,Desconocido
+Bajo,Ninguna,3,Alta,Desconocido
+Bajo,Adecuada,3,Alta,Desconocido
+Alto,Ninguna,1,Alta,Malo
+Moderado,Adecuada,3,Alta,Malo
+Bajo,Ninguna,3,Alta,Bueno
+Bajo,Adecuada,3,Alta,Bueno
+Alto,Ninguna,1,Alta,Bueno
+Moderado,Ninguna,2,Alta,Bueno
+Bajo,Ninguna,3,Alta,Bueno
+Alto,Ninguna,2,Alta,Malo

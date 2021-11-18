@@ -1,0 +1,15 @@
+Riesgo,GarantiaColateral,Ingresos,Deuda,HistorialCredito
+Alto,Ninguna,$0to$15K,Alta,Malo
+Alto,Ninguna,$500Kto$2000K,Alta,Desconocido
+Moderado,Ninguna,$500Kto$2000K,Baja,Desconocido
+Alto,Ninguna,$0to$15K,Alta,Desconocido
+Bajo,Ninguna,over$2000K,Alta,Desconocido
+Bajo,Adecuada,over$2000K,Alta,Desconocido
+Alto,Ninguna,$0to$15K,Alta,Malo
+Moderado,Adecuada,over$2000K,Alta,Malo
+Bajo,Ninguna,over$2000K,Alta,Bueno
+Bajo,Adecuada,over$2000K,Alta,Bueno
+Alto,Ninguna,$0to$15K,Alta,Bueno
+Moderado,Ninguna,$500Kto$2000K,Alta,Bueno
+Bajo,Ninguna,over$2000K,Alta,Bueno
+Alto,Ninguna,$500Kto$2000K,Alta,Malo

@@ -1,0 +1,49 @@
+{
+   "attribute":"Ingresos",
+   "nodes":{
+      "over$2000K":{
+         "attribute":"HistorialCredito",
+         "nodes":{
+            "Bueno":{
+               "label":"Bajo"
+            },
+            "Malo":{
+               "label":"Moderado"
+            },
+            "Desconocido":{
+               "label":"Bajo"
+            }
+         }
+      },
+      "$500Kto$2000K":{
+         "attribute":"HistorialCredito",
+         "nodes":{
+            "Bueno":{
+               "label":"Moderado"
+            },
+            "Malo":{
+               "label":"Alto"
+            },
+            "Desconocido":{
+               "attribute":"Deuda",
+               "nodes":{
+                  "Baja":{
+                     "label":"Moderado"
+                  },
+                  "Alta":{
+                     "label":"Alto"
+                  }
+               }
+            }
+         }
+      },
+      "$0to$15K":{
+         "label":"Alto"
+      }
+   }
+}
+
+
+
+
+Tester: https://vanya.jp.net/vtree/
