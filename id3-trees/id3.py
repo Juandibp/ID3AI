@@ -210,6 +210,9 @@ def pretty_print_tree(root):
     print(os.linesep.join(rules))
 
 
+
+
+##  Main
 def main():
     argv = sys.argv
     print("Command line args are {}: ".format(argv))
@@ -226,8 +229,13 @@ def main():
     uniqs = get_uniq_values(data)
 
     root = id3(data, uniqs, remaining_attributes, target_attribute)
+    #
+    
     print(root)
+    print('-----------------------------------')
     pretty_print_tree(root)
+    
+
 
 
 if __name__ == "__main__": main()
